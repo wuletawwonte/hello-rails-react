@@ -1,6 +1,6 @@
-# Set up a "Hello world" project as one app with Webpack
+# Set up a Greeting project as one app with Webpack
 
-> Implement a connection between a Ruby on Rails back-end and React front-end.
+> Implement a connection between a Ruby on Rails back-end and React front-end in the same repository.
 
 ## Built With
 
@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤 **Zelalem Mekonnen**
+👤 **Wuletaw Wonte**
 
 - GitHub: [@wuletawwonte](https://github.com/wuletawwonte)
 - Twitter: [@wuletaw_beza](https://twitter.com/wuletawwonte)
